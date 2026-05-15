@@ -292,9 +292,9 @@ Full interactive docs: `http://localhost:8000/docs`
 
 ## Author
 
-**[Your Name]**
-BSc Computer Science — [Your University Name], India, 2025
-- GitHub: [@yourusername](https://github.com/yourusername)
+**NAISHA MINNAH**
+BSc Computer Science — Calicut University, India, 2025
+- GitHub: [@Naishaminnah](https://github.com/Naishaminnah)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---

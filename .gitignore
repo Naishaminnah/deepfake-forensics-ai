@@ -1,0 +1,130 @@
+# === DATASETS & LARGE FOLDERS (never commit) ===
+audio_data/
+datasets/
+frames/
+gan_dataset/
+gan_dataset_sample/
+split_data/
+data/
+checkpoints/
+video_test_set/
+temp/
+temp_stylegan/
+outputs/
+output/
+uploads/
+face_cache/
+evidence_storage/
+log_folder_of_blockchain/
+ganache_backup/
+dnnlib/
+torch_utils/
+tools/
+
+
+# === TEST/SCRATCH FILES IN ROOT ===
+test_*.py
+create_split.py
+split_dataset.py
+
+# Auto-generated Truffle artifacts
+backend/blockchain/EvidenceRegistry.json
+backend/blockchain_backup/
+
+# Pretrained weight folders
+backend/pretrained/
+backend/stylegan_weights/
+backend/stylegan/
+
+# --- Secrets (never commit) ---
+.env
+backend/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Python ---
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- Frontend build ---
+frontend/build/
+
+# --- IDE / OS ---
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- ML / caches (regenerate locally) ---
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+*.joblib
+.cache/
+wandb/
+
+# --- Local experiments / temp ---
+temp_stylegan/.cache/
+
+# Local full-tree export (can be huge; may accidentally duplicate secrets if misconfigured)
+PROJECT_FULL_DUMP.txt
+SELECTED_SOURCE_DUMP.txt
+
+# Generated feature cache
+backend/features/
+
+# Pretrained model binaries and HuggingFace cache
+backend/pretrained/
+backend/stylegan/
+
+# Test scripts in root (untracked, keep them local)
+test/
+biggan_download_once.py
+check_numpy.py
+count_gan_dataset_2.py
+create_test_set_in_gan_dataset.py
+cut_down_gan_sample_2.py
+debug.py
+download.py
+download_asvspoof2019.ps1
+download_forgerynet.ps1
+download_gan_type_test.sh
+download_models_biggan_vgg16.py
+download_pretrained_gan_reconstruction.py
+download_stylegan3.py
+extract_frames.py
+gan_model_downloader.py
+nothin_just_testing_biggan_offline_loading.py
+organize_frames.py
+run_test_gan_fingerprinter.py
+split_gan_dataset.py
+blockchain_backup/

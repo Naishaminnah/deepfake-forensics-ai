@@ -200,7 +200,7 @@ deepfake_forensics_ai/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/yourusername/deepfake-forensics-ai.git
+git clone https://github.com/Naishaminnah/deepfake-forensics-ai.git
 cd deepfake-forensics-ai
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate

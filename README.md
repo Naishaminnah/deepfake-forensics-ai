@@ -1,5 +1,7 @@
 # DeepFake Forensics AI
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 A forensic-grade deepfake detection and tamper-proof evidence management platform. This system detects AI-generated fakes across image, video, and audio modalities, and anchors forensic evidence immutably on the Ethereum blockchain via smart contracts — making it suitable for legal and law-enforcement use cases.
 
 Built independently as a final-year BSc Computer Science project.
